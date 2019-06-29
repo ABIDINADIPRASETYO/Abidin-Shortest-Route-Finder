@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Abidin Optimal Route Finder</string>
+
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="title_activity_load_file">Load file</string>
+    <string name="title_activity_add_place">Add Place</string>
+    <string name="title_activity_select_place">Select Place</string>
+    <string name="title_activity_places_list">Selected places:</string>
+
+    <string name="plan_route">Plan route</string>
+    <string name="load_file">Load file</string>
+    <string name="select_file">Select file</string>
+    <string name="load_places_to_db">Load places</string>
+    <string name="select_category">Select category: </string>
+    <string name="weight">"Weight: "</string>
+    <string name="weight_without_space">Weight:</string>
+    <string name="find_route">Find Road</string>
+    <string name="add_place_to_database">Add place</string>
+    <string name="add_place">Add Place</string>
+    <string name="name">Masukkan Nama Tempat Wisata</string>
+    <string name="latitude">Masukkan Latitude </string>
+    <string name="longitude">Masukkan Longitude </string>
+    <string name="category1">Category 1: </string>
+    <string name="category2">Category 2: </string>
+    <string name="category3">Category 3: </string>
+    <string name="description">Masukkan Deskripsi Singkat Tempat Wisata</string>
+    <string name="add">Add</string>
+    <string name="enter_or_select_categories">Select/enter categories</string>
+    <string name="type_category">Enter keywords</string>
+    <string name="selected_places">Selected places:</string>
+    <string name="select_place">Select place:</string>
+    <string name="optymalization_mode">Optimize by:</string>
+
+    <string name="database_is_not_available">Database is not available</string>
+    <string name="added">Added </string>
+    <string name="to_database"> to database</string>
+    <string name="enter_valid_data">Enter a valid data</string>
+    <string name="select_txt_file">Select txt file</string>
+    <string name="please_install_file_manager">Please install a File Manager</string>
+    <string name="places_to_database"> places to database</string>
+    <string name="could_not_read_this_file">Could not read this file</string>
+    <string name="select_file_first">Select file first!</string>
+    <string name="current_location">Starting Location</string>
+    <string name="message_place_is_to_far">" is too faar from you for weight "</string>
+    <string name="message_firs_select_place">Select place first!</string>
+    <string name="message_this_place_has_already_been_selected">This place has already been selected!</string>
+    <string name="message_you_cant_select_more_places">You cannot select more places!</string>
+    <string name="dialog_message">Are you sure, you want to return to the main menu? You will lose list of selected places!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="warning">Warning!</string>
+    <string name="please_wait">Please wait</string>
+    <string name="finding_best_route">Finding best route…</string>
+    <string name="distance_matrix_for">"Distance matrix for "</string>
+    <string name="time_matrix_for">"Time matrix for "</string>
+    <string name="optimal_route">"Optimal route: "</string>
+    <string name="shortest_path">"Shortest path: "</string>
+    <string name="longest_path">"Longest path: "</string>
+    <string name="fastest_path">"Fastest path: "</string>
+    <string name="slowest_path">"Slowest path: "</string>
+    <string name="places">" places "</string>
+    <string name="rating">"Rating: "</string>
+    <string name="add_your_own_place">Add your own place</string>
+    <string name="radius">"Radius [meter] :"</string>
+    <string name="enter_radius">"Masukkan radius"</string>
+    <string name="category">Category:</string>
+    <string name="enter_keywords">Enter keywords</string>
+    <string name="open_now">Open now</string>
+    <string name="find">Find places</string>
+    <string name="found_places">Found places:</string>
+    <string name="current_location_desc">"Add this place if you want the current location to be included in the route planning"</string>
+
+    <string name="GoogleMapsDirectionsApiKey3">AIzaSyDJSTSB3Ugunwpv9esz5In0Dnkpx2cNP08</string>
+    <string name="GoogleMapsDirectionsApiKey2">AIzaSyAyosJ-hMWfv4HhCYWWpaGyeMTvlw_DvoE</string>
+    <string name="GoogleMapsDirectionsApiKey">AIzaSyCZ8S0qL9Sizl337PW07tDJu7To7e29QSc</string>
+
+
+    <string-array name="optymalization_modes">
+        <item>Distance</item>
+        <item>Time</item>
+    </string-array>
+
+    <string-array name="spinner_category">
+        <item>My places</item>
+        <item>Places of interest</item>
+        <item>Swimming pool</item>
+        <item>Shopping center</item>
+        <item>Cinema</item>
+        <item>Culture</item>
+        <item>Park</item>
+        <item>Pub</item>
+        <item>Restaurant</item>
+        <item>Sport</item>
+        <item>School</item>
+        <item>Hospital</item>
+        <item>Theatre</item>
+    </string-array>
+
+
+    <string name="icon_car" translatable="false">&#xf36f;</string>
+    <string name="icon_bicycle" translatable="false">&#xf369;</string>
+    <string name="icon_walking" translatable="false">&#xf3bb;</string>
+    <string name="icon_delete" translatable="false">&#xf36e;</string>
+
+</resources>
